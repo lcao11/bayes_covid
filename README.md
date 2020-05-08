@@ -11,4 +11,4 @@ The folder includes three main files:
 
     mg.py: the implementation of the MCMC algorithm with Metrapolis-Hasting proposals.
 
-A jupyer notebook is included for running an example of the Bayesian calibration/validation/prediction process inluded in the Oden Institute report.
+A jupyer notebook is included for running an example of the Bayesian calibration/validation/prediction process that apperas in the Oden Institute report.
